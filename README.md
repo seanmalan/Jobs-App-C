@@ -1,4 +1,4 @@
-# Jobs-App-C-
+# Jobs-App-C
 
 
 This will be my attempt at creating a job organization app for my friend to use so that he can have people create an enquiry for a quote for a trades job. He can then have all the jobs organised in one location and be able to manage the jobs form there. 
